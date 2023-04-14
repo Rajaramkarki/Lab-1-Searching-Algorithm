@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab1SearchAlgo", "Lab1SearchAlgo\Lab1SearchAlgo.csproj", "{37D7B7EE-97C0-4080-B384-AAB71EF40846}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchTest", "SearchTest\SearchTest.csproj", "{828F1AE1-07EF-417E-ADA9-8E37289017A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37D7B7EE-97C0-4080-B384-AAB71EF40846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D7B7EE-97C0-4080-B384-AAB71EF40846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D7B7EE-97C0-4080-B384-AAB71EF40846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D7B7EE-97C0-4080-B384-AAB71EF40846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{828F1AE1-07EF-417E-ADA9-8E37289017A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828F1AE1-07EF-417E-ADA9-8E37289017A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828F1AE1-07EF-417E-ADA9-8E37289017A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828F1AE1-07EF-417E-ADA9-8E37289017A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {440259C9-2E3D-40F1-BC55-D6375E79F6F9}
+	EndGlobalSection
+EndGlobal
